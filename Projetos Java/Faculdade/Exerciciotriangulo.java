@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Exerciciotriangulo {
-    public static void main(String[] args) {
+    public static void main(S tring[] args) {
     Scanner teclado=new Scanner (System.in);
     System.out.println("Informar as medidas do triângulo");
     
